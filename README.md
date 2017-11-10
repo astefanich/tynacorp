@@ -1,6 +1,6 @@
 # tynacorp
 just some fun with angularJS. A basic product management site.
-There is a simply mock HTTP backend for simulating server interaction.
+There is a simple Angular mock HTTP backend for simulating server interaction.
 
 
 To view, start a local webserver in the project's root directory. Navigate to index.html
